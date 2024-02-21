@@ -1,3 +1,0 @@
-E:/Projekty AGH/Rurki2/cmake-build-debug/CMakeFiles/Rurki2.dir
-E:/Projekty AGH/Rurki2/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Projekty AGH/Rurki2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
