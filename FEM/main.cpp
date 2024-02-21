@@ -147,7 +147,7 @@ void print_calculated_value(vector<double> x, vector<double> y, int n) {
 void draw_plot(vector<double> x, vector<double> y) {
     plt::figure();
     plt::plot(x, y);
-    plt::title("Rozwiązanie równania transportu ciepła.");
+    plt::title("Solving the equation.");
     plt::show();
 }
 
